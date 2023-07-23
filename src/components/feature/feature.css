@@ -38,6 +38,7 @@
     font-size: 14px;
     line-height: 24px;
     color: var(--color-text);
+    color: #fff;
 }
 @media screen and (max-width: 550px) {
     .gpt3__features-container__feature-title h1 {
